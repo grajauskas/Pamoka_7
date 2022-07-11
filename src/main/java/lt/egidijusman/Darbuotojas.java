@@ -73,4 +73,19 @@ public class Darbuotojas {
         }
         return einamiMetai - gimimoMetai;
     }
+
+    public void spausdingDarbuotojoInfo() {
+        System.out.println(String.format(
+                "Darbuotojas [vardas: %s, pavarde: %s, ak: %s, amzius: %s, pareigos: %s, stazas: %s]",
+                this.name,
+                this.lastName,
+                this.asmensKodas,
+                this.amzius,
+                this.pareigos,
+                this.stazas
+        ));
+
+
+    }
+
 }

@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d762a1db-6746-47e5-b0bb-45be3f642004" name="Changes" comment="">
+    <list default="true" id="d762a1db-6746-47e5-b0bb-45be3f642004" name="Changes" comment=" baiktas vienas">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/egidijusman/Darbuotojas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/egidijusman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Failu_Tvarkykle/Failai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/egidijusman/Imone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/egidijusman/Darbuotojas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/egidijusman/Darbuotojas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/egidijusman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/egidijusman/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +42,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Failai">
+    <configuration name="Failai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Failu_Tvarkykle.Failai" />
+      <module name="Pamoka_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Failu_Tvarkykle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lt.egidijusman.Main" />
       <module name="Pamoka_7" />
@@ -62,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Failai" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -75,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1657210224651</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create Darbuotojas class intoo root">
+      <created>1657214628565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657214628565</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,5 +109,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Darbuotojas class intoo root" />
+    <MESSAGE value=" baiktas vienas" />
+    <option name="LAST_COMMIT_MESSAGE" value=" baiktas vienas" />
   </component>
 </project>
